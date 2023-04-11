@@ -4,7 +4,7 @@ git clone
 git pull
 
 git add và git add .
-git commit
+git commit   git commit -m '  '
 git push
 
 git log
@@ -17,5 +17,5 @@ git branch          (+vs tên nhánh)
 git checkout          đổi nhánh
 gộp 2 lệnh tạo branch mới
 git checkout -b    (+vs tên nhánh)
-
+git push origin     (branch có thì thêm origin vào)
 git merge
