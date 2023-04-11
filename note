@@ -3,9 +3,10 @@ git init
 git clone
 git pull
 
-git add và git add .
-git commit   git commit -m '  '
-git push
+    git add và git add .
+b1  git add .
+b2  git commit   git commit -m '  '
+b3  git push
 
 git log
 git log —decorate —graph —oneline
