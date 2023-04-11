@@ -1,0 +1,22 @@
+lệnh base
+git init
+git clone
+git pull
+
+    git add và git add .
+b1  git add .
+b2  git commit   git commit -m '  '
+b3  git push
+
+git log
+git log —decorate —graph —oneline
+
+
+
+lệnh nhánh:
+git branch          (+vs tên nhánh)
+git checkout          đổi nhánh
+gộp 2 lệnh tạo branch mới
+git checkout -b    (+vs tên nhánh)
+git push origin     (branch có thì thêm origin vào)
+git merge
